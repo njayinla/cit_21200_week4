@@ -1,0 +1,58 @@
+*  {
+    margin: 0;
+}
+
+html {
+    height: 120%;
+    background-color: orange;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 10px;
+    width: 100%;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #425467;
+    color: white;
+    box-sizing: border-box;
+    padding: 15px 10px;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    margin-bottom: 20px;
+   }
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.home{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    background-color: lightgray;
+    color: red;
+
+}
+.lorem{
+    margin-bottom: 20px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: lightgray;
+    color: black;
+}
+
+.pic{
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    background-color: lightgray;
+
+}
